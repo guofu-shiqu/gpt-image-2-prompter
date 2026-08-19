@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT-image-2 提示词"
+  short_description: "为 GPT-image-2 生成可执行出图提示词方案"
+  default_prompt: "使用 $gpt-image-2-prompter，把我的出图想法改写成中文、可直接执行的 GPT-image-2 提示词。"
